@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 100px;
+    border: solid black 2px;
+}
+
+h1 {
+    margin-bottom: 60px;
+}
+
+.ourproducts {
+    width: 100%;
+    margin-bottom: 100px;
+    padding: 16px;
+
+}
+
+.products {
+    border: solid black 2px;
+    width: 235px;
+    float: left;
+    margin-left: 9px;
+}
+
+.favourite {
+    border: solid black 2px;
+
+}
+
+.oneprice {
+    font-size: 30px;
+    font-weight: 900;
+    color: darkgreen;
+}
+
+.secondprice {
+    font-size: 15px;
+    color: red;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+.clearfix {
+    clear: left;
+}
